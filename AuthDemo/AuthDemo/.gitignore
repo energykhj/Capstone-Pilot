@@ -1,0 +1,6 @@
+# Compiled source #
+###################
+/bin
+/obj
+/Properties
+/Migrations
